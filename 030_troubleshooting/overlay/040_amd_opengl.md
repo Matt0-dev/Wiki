@@ -58,6 +58,18 @@ step 3 - click add and add the controller.exe file as an option
 
 Step 4 - press launch 
 
+
+detection problems pt 2 
+-----
+
+step 1 - go to vulkan installation analysis 
+![image](https://github.com/Valthrun/Valthrun/assets/60718218/775dfeb7-a97f-4f26-8323-125309e830b0)
+
+step 2- go to vulkan driver info and Enable PCI/VEN 
+![image](https://github.com/Valthrun/Valthrun/assets/60718218/2416f019-fbab-40fb-9470-6c7e2bbe0458)
+
+step 3 - done it should load the driver 
+
 FPS issues
 -----
 step 1 - open vulkan configurator 
